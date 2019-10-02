@@ -35,7 +35,7 @@ for i in range(0, nit):
     # save the fitted center of the gaussian
 	result[i] = popt[1]
 	
-    #	plt.plot(x,y,'or')
+    print result[i]#	plt.plot(x,y,'or')
     #plt.plot(x,z)
     #plt.draw()
     #raw_input(':')
